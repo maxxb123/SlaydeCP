@@ -6,7 +6,7 @@
 }
 
 body {
-	background: #448ed3 ;
+	background: #29B9E5 ;
 	font-family: "Lato" ;
 }
 .wrap {
@@ -84,6 +84,6 @@ body {
 	padding-bottom: 14px;
 	outline: none;
 	font-size: 13px;	
-	border-bottom: 3px solid #307d63;
+	border-bottom: 0px solid #307d63;
 	cursor: pointer;
 }
