@@ -2,6 +2,7 @@
 A fully customizable VPS, Dedicated, and Game Server management control panel.
 
 ![My image](https://cloud.githubusercontent.com/assets/9917926/6791864/ca510cc4-d188-11e4-82fb-087f5a0384d9.png)
+Email your resume to: **internal@slaydeventures.us**
 
 Features
 ----
